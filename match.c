@@ -8,7 +8,6 @@ void nextTurn(struct Match* m) {
     int turnComplete = 0;
     char userInput[BUFFER_LEN];
     int space;
-    //char prompt[BUFFER_LEN];
     
     while(!turnComplete) {
     
